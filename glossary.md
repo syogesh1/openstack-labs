@@ -184,6 +184,7 @@ Atest [5] This is a test.
 - **VirtualBox** [4] An OpenStack-supported hypervisor.
 - **VLAN Network** [7] The Network Controller provides virtual networks to enable compute servers to interact with each other and with the public network. All machines must have a public and private network interface. A VLAN network is a private network interface, which is controlled by the vlan_interface option with VLAN managers.
 - **Volume** [13] Disk-based data storage generally represented as an iSCSI target with a file system that supports extended attributes; can be persistent or ephemeral.
+- **VOLTE" - an acronym for Voice over LTE, which is based on the IP Multimedia Subsystem (IMS) network, with specific profiles for control and media planes of voice service on LTE defined by GSMA in PRD IR.92.
 - **vSphere** [4] An OpenStack-supported hypervisor.
 - **Working Directory** [17] A single version of the project. These files are pulled out of the compressed database in the Git directory and placed on disk for you to use or modify.
 - **XaaS** [1] Anything as a service.
