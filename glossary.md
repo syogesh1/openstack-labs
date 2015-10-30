@@ -112,6 +112,7 @@ Atest [5] This is a test.
 - **Ironic** [15] OpenStack project that provisions bare metal, as opposed to VM instances.
 - **JSON** [5] *JavaScript Object Notation* One of the supported response formats in OpenStack.
 - **Kernel Based VM** [4] *KVM* An OpenStack-supported hypervisor. KVM is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V), ARM, IBM Power, and IBM zSeries. It consists of a loadable kernel module, that provides the core virtualization infrastructure and a processor specific module.
+- **Kelli** [1] One crazy old lady studying Openstack.
 - **Keystone** [5] One of the OpenStack Foundation core projects that provides the Identity Service.
 - **Large Object** [11] An object within Object Storage that is larger than 5 GB.
 - **Linux Bridge** [7] Software that allows multiple VM instances to share a single Physical NIC within Compute.
