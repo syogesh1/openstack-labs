@@ -5,7 +5,7 @@ weight = 21
 title = "Keystone Commands"
 +++
 
-Run all the commands indicated with "<--"
+Run all the commands (as admin) indicated with **"<--"**
 
 #### Service Catalog  
 `catalog` <-- keystone catalog  
@@ -41,7 +41,7 @@ Run all the commands indicated with "<--"
 `tenant-create`  
 `tenant-delete`  
 `tenant-get`  
-`tenant-list`  <--  keystone-list  
+`tenant-list`  <--  keystone tenant-list
 `tenant-update`  
 
 #### Get a token
@@ -54,7 +54,7 @@ Run all the commands indicated with "<--"
 `user-list`  
 `user-password-update`  
 `user-role-add`  
-`user-role-list`  <-- keystone user-role-list 
+`user-role-list`  <-- keystone user-role-list  
 `user-role-remove`  
 `user-update`  
 

@@ -178,7 +178,7 @@ Command-line interface to the OpenStack Nova API.
 `secgroup-delete-default-rule` Delete a rule from the set of rules that will be added to the 'default' security group for new tenants.  
 `secgroup-delete-group-rule`  Delete a source group rule from a security group.  
 `secgroup-delete-rule`        Delete a rule from a security group.  
-`secgroup-list`               List security groups for the current tenant.
+`secgroup-list`               List security groups for the current tenant.  
 `secgroup-list-default-rules` List rules that will be added to the 'default' security group for new tenants.  
 `secgroup-list-rules`         List rules for a security group.  
 `secgroup-update`             Update a security group.  
@@ -216,7 +216,7 @@ Command-line interface to the OpenStack Nova API.
 `volume-show`                Show details about a volume.  
 `volume-snapshot-create`      Add a new snapshot.  
 `volume-snapshot-delete`      Remove a snapshot.  
-`volume-snapshot-list`        List all the snapshots.
+`volume-snapshot-list`        List all the snapshots.  
 `volume-snapshot-show`        Show details about a snapshot.  
 `volume-type-create`          Create a new volume type.  
 `volume-type-delete`          Delete a specific volume type.  

@@ -8,7 +8,7 @@ title = "FIX"
 ### Fixes
 
 1. Reset aliceanderson password
-   `keystone user-password-update aliceanderson`  `New Password`
+   `keystone user-password-update aliceanderson` --pass `New Password`
 
     password: `fa5tpa55w0rd`
 
