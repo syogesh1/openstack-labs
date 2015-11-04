@@ -7,9 +7,9 @@ title = "FIX"
 
 ### Fixes
 
-1. Reset aliceanderson password example
+1. Reset aliceanderson password example  
    `keystone user-password-update aliceanderson --pass fa5tpa55w0rd`
 
 
-2. How to "unsource" your bash session
+2. How to "unsource" your bash session  
    `source .bashrc`
